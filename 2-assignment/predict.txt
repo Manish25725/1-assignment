@@ -1,0 +1,13 @@
+Ques.1)
+
+Ans1: Output is: 0
+
+
+Ques.2)
+Ans2: 1 1
+
+Ques.3)
+Ans3: 2
+
+Ques.6)
+Ans6: 49 
